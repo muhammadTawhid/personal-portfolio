@@ -1,5 +1,5 @@
 body{
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Ubuntu', sans-serif
 }
 .nav-list{
     overflow: hidden;
@@ -100,4 +100,3 @@ body{
       margin-left: 7rem;
       font-weight: 800;
   }
-  
